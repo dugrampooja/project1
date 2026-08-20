@@ -6,7 +6,9 @@
 
     <title>My Complete HTML Page</title>
 
+    <link rel="stylesheet" href="style.css">
     <style>
+
         /* Reset */
         * {
             margin: 0;
@@ -167,6 +169,7 @@
                 flex-direction: column;
             }
         }
+        
     </style>
 </head>
 
